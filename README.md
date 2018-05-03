@@ -1,2 +1,2 @@
 # incognito
-Mysterious 
+*Mysterious* 
