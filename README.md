@@ -1,2 +1,4 @@
 # incognito
-*Mysterious* 
+*Mysterious*</br>
+ 
+Author: George Clayton, Michael Course 
